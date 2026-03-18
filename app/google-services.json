@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083623498327",
+    "project_id": "yomar-te-presta",
+    "storage_bucket": "yomar-te-presta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083623498327:android:4609e63e5a7e294b627912",
+        "android_client_info": {
+          "package_name": "com.example.yomartepresta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083623498327-vs9p44j3njj8g58letaigsflau6ecink.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yomartepresta",
+            "certificate_hash": "003f0c31febec3e60233cf79f3bc972f0e220528"
+          }
+        },
+        {
+          "client_id": "1083623498327-q1jtc9g6ltvdchmk71d8vhisp9726deg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCF2dkGrWlaxGA6OACJK6aD72Rs4wsFsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083623498327-q1jtc9g6ltvdchmk71d8vhisp9726deg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
